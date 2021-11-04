@@ -11,7 +11,7 @@ For this project, you'll create a "word cloud" from a text by writing a script. 
 
 - Before storing words in the frequency dictionary, check if they’re part of the "uninteresting" set of words (for example: "a", "the", "to", "if"). Make this set a parameter to your function so that you can change it if necessary.
 
-</h1>Project goal</h1>
+<h1>Project goal</h1>
 
 Create a dictionary with words and word frequencies that can be passed to the generate_from_frequencies function of the WordCloud class.
 <br>
