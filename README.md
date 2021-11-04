@@ -17,7 +17,9 @@ Create a dictionary with words and word frequencies that can be passed to the ge
 <br>
 Once you have the dictionary, use this code to generate the word cloud image:
 >cloud = wordcloud.WordCloud()
+><br>
 cloud.generate_from_frequencies(frequencies)
+<br>
 cloud.to_file("myfile.jpg")
 
 <h1>Outcome</h1>
