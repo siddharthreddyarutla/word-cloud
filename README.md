@@ -23,6 +23,6 @@ For this project, you'll create a "word cloud" from a text by writing a script. 
 >cloud.to_file("myfile.jpg")
 
 <h1>Outcome</h1>
-![word_cloud output](https://user-images.githubusercontent.com/70971734/140272000-9b72dd8f-1254-4240-9c99-f54300ac825b.png)
+![word_cloud output](![word_cloud output](https://user-images.githubusercontent.com/70971734/140272402-1e74de70-9a8d-47ad-90c7-48b3e4cf32c1.png))
 
   
