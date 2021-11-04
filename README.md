@@ -13,9 +13,9 @@ For this project, you'll create a "word cloud" from a text by writing a script. 
 
 <h1>Project goal</h1>
 
--Create a dictionary with words and word frequencies that can be passed to the generate_from_frequencies function of the WordCloud class.
+- Create a dictionary with words and word frequencies that can be passed to the generate_from_frequencies function of the WordCloud class.
 
--Once you have the dictionary, use this code to generate the word cloud image:
+- Once you have the dictionary, use this code to generate the word cloud image:
 >cloud = wordcloud.WordCloud()
 ><br>
 >cloud.generate_from_frequencies(frequencies)
